@@ -57,7 +57,7 @@ After download is finished, Open MATLAB, change MATLAB current folder to the pat
     - User can choose which ROI they want to investigate by clicking the axial, sagittal, coronal sliced images.
     - User can click which segmented label of brain tumor contour they want to explore.
     - User can also switch the different series (T1, T1post, T2, Flair)
-    - If user wnat to export this segment result, they can push `Export results as DICOM RTSS` button. Then, the `Action` will become `Exported` in the `DeepBT_GUI`.
+    - If user want to export this segment result, they can push `Export results as DICOM RTSS` button. Then, the `Action` will become `Exported` in the `DeepBT_GUI`.
 
 7. In `DeepBT_GUI`, click `Export results` under the `Action` column can also save processing results as DICOM RTSS file. 
 
